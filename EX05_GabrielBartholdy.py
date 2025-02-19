@@ -1,5 +1,6 @@
-tabu = int(input("QUal o nmero que deseja saber a tabuada"))
 
-i = 1
-for i in range(tabu):
-    print(i * tabu)
+numero = int(input("Digite o número para ver a tabuada: "))
+
+for i in range(1, 11):
+    result = numero * i
+    print("{} x {} = {}".format(numero,i,result))
