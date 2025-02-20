@@ -14,7 +14,7 @@ for i in range(len(horario_disp)):
         print("Horario de {} foi agendado com sucesso".format(hora_sele))
         horario_disp.remove(hora_sele)
     else:
-        print("aValor invalido")
+        print("Valor invalido")
     if len(hora_sele) == 0:
         print("Todos os horarios marcados")
         break
