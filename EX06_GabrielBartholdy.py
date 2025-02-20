@@ -5,3 +5,6 @@ if numero < 50:
         print(i)
 else:
     print('o numero deve ser menor que 50')
+
+
+print('Gabriel bartholdy')

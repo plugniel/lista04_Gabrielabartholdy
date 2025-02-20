@@ -8,3 +8,5 @@ if numero < 10:
 else:
     for i in range(3):
         print("número muito alto")
+
+print('Gabriel bartholdy')

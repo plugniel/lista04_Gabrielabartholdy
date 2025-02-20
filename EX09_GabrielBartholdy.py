@@ -8,3 +8,5 @@ elif dire == 'c':
     num = int(input("qual o numero que deseja? (Superior a 1)"))
     for i in range(num + 1):
         print(i)
+
+print('Gabriel bartholdy')

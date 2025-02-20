@@ -10,3 +10,6 @@ for i in range(tarefas):
         conclu.append(ss1)
         print('')
         print( "TAREFA:{} \nCONCLUIDA:{}".format(tare[i],conclu[i]))
+
+
+print('Gabriel bartholdy')
